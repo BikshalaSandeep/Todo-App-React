@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/BikshalaSandeep/Todo-App-React/static/css/main.1a84af7e.css",
+    "main.js": "/BikshalaSandeep/Todo-App-React/static/js/main.fee0d4df.js",
+    "index.html": "/BikshalaSandeep/Todo-App-React/index.html",
+    "main.1a84af7e.css.map": "/BikshalaSandeep/Todo-App-React/static/css/main.1a84af7e.css.map",
+    "main.fee0d4df.js.map": "/BikshalaSandeep/Todo-App-React/static/js/main.fee0d4df.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1a84af7e.css",
+    "static/js/main.fee0d4df.js"
+  ]
+}
